@@ -1,2 +1,3 @@
 # FIXARR-ASSETS
-icons,logos related to Fixarr project
+
+icons / logos related to Fixarr project
